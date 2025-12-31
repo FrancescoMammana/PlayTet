@@ -51,11 +51,3 @@ Per uno sviluppo più comodo, puoi usare un semplice server statico (es. `npx se
 
 Questo progetto è rilasciato sotto licenza **MIT**; puoi utilizzare, modificare e ridistribuire il codice liberamente mantenendo l’avviso di copyright e la licenza.[5]
 
-[1](https://lset.uk/resources/tech-bites/building-a-tetris-game-with-html-css-and-javascript/)
-[2](https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1)
-[3](https://en.wikipedia.org/wiki/Tetris_(NES_video_game))
-[4](https://tagn.wordpress.com/2009/07/30/why-does-tetris-get-faster/)
-[5](https://github.com/llop/classic-tetris-js)
-[6](https://codepen.io/jh3y/pen/MQJBEN)
-[7](https://eclecticdevlog.com/posts/tetris/)
-[8](https://dev.to/oinak/step-by-step-tetris-on-es6-and-canvas-dob)
